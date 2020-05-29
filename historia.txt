@@ -1,2 +1,4 @@
 Hola:
 Este es mi primer archivo para sincronizar con Git.
+
+Vamos a editar este archivo y a subir los cambios para ver más logs
